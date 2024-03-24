@@ -6,3 +6,5 @@ Hey there! 👋 I'm Joel Mendonsa, a passionate student diving deep into the exc
 
 ## Introduction
 Welcome to my repository on Machine Learning with R! As part of my journey in data science education, I've embarked on this project to consolidate my learnings and share valuable resources with fellow learners like you. Whether you're a beginner stepping into the realm of machine learning or an enthusiast seeking to deepen your understanding, this repository aims to provide a comprehensive guide to leveraging R for your machine learning endeavors.
+
+# Easy Machine Learning with R
