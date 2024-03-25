@@ -11,7 +11,18 @@ Welcome to my repository on Machine Learning with R! As part of my journey in da
 
 ## Description
 Welcome to my Machine Learning with R repository! I'm Joel Mendonsa, and here you'll find simple guides and examples to learn machine learning using R.
-
 You'll explore basic machine learning techniques like linear regression, logistic regression, K-nearest neighbors (KNN), decision trees, random forest, support vector machines (SVM), K-means clustering, natural language processing (NLP), and neural networks.
 
-Whether you're just starting out or looking to improve your skills, this repository is here to make learning machine learning fun and easy. Let's get started!
+## Useful Libraries in R for Machine Learning
+When it comes to machine learning in R, several libraries stand out for their ease of use and powerful functionality. Some of the most popular ones include:
+
+- **caret**: A versatile package for classification and regression training.
+- **randomForest**: Implements random forest algorithms for classification and regression.
+- **e1071**: Provides functions for support vector machines, clustering, and more.
+- **nnet**: Used for training and testing neural networks.
+- **tm**: A text mining package often used for natural language processing tasks.
+- **cluster**: Offers various clustering algorithms.
+- **glmnet**: Implements Lasso and Elastic-Net regularized generalized linear models.
+- **ggplot2**: A powerful package for data visualization, allowing you to create elegant and informative plots.
+
+These libraries, among others, provide a wide range of tools to tackle different machine learning tasks in R, making them essential resources for any data scientist or machine learning practitioner.
