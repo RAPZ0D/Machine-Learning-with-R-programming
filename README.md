@@ -30,7 +30,7 @@ When it comes to machine learning in R, several libraries stand out for their ea
 - **glmnet**: Implements Lasso and Elastic-Net regularized generalized linear models.
 - **ggplot2**: A powerful package for data visualization, allowing you to create elegant and informative plots.
 
-These libraries, among others, provide a wide range of tools to tackle different machine learning tasks in R, making them essential resources for any data scientist or machine learning practitioner.
+These libraries, among others, provide a wide range of tools to tackle different machine learning tasks in R, making them essential resources for any data scientist, and remember there is a vast library in R and I would suggest you to look into it and make use of each library you need.
 
 ## How to Install Packages in R 
 Installing packages in R is straightforward and can be done using the `install.packages()` function. Here's a simple guide:
