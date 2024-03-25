@@ -26,3 +26,13 @@ When it comes to machine learning in R, several libraries stand out for their ea
 - **ggplot2**: A powerful package for data visualization, allowing you to create elegant and informative plots.
 
 These libraries, among others, provide a wide range of tools to tackle different machine learning tasks in R, making them essential resources for any data scientist or machine learning practitioner.
+
+## How to Install Packages in R
+Installing packages in R is straightforward and can be done using the `install.packages()` function. Here's a simple guide:
+
+1. **Open R Console**: Launch R and open the R console.
+
+2. **Install Package**: To install a package, use the following syntax:
+   ```R
+   install.packages("package_name")
+
