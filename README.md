@@ -36,3 +36,7 @@ Installing packages in R is straightforward and can be done using the `install.p
    ```R
    install.packages("package_name")
 
+3. **Example**: For instance, to install the caret package, you can use the following command:
+
+```R
+install.packages("caret")
