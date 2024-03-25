@@ -1,7 +1,7 @@
 # Machine-Learning-with-R-programming
 This Repository includes all the Machine Learning (ML) topics covered in R programming language 
 
-[How to install R packages](#how-to-intstall-packages-in-r)
+[How to install R packages](#install-packages)
 
 ## About Me
 Hey there! 👋 I'm Joel Mendonsa, a passionate student diving deep into the exciting world of data science. Currently pursuing my studies in data science, I've recently completed a course in artificial intelligence, delving into the realms of machine learning algorithms and techniques. This semester, I'm thrilled to explore the mathematical foundations behind machine learning, all while sharpening my skills in the R programming language.
@@ -29,7 +29,7 @@ When it comes to machine learning in R, several libraries stand out for their ea
 
 These libraries, among others, provide a wide range of tools to tackle different machine learning tasks in R, making them essential resources for any data scientist or machine learning practitioner.
 
-## How to Install Packages in R
+## How to Install Packages in R {#install-packages}
 Installing packages in R is straightforward and can be done using the `install.packages()` function. Here's a simple guide:
 
 1. **Open R Console**: Launch R and open the R console.
