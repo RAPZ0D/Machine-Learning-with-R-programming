@@ -1,6 +1,8 @@
 # Machine-Learning-with-R-programming
 This Repository includes all the Machine Learning (ML) topics covered in R programming language 
 
+[IDE (Integrated Development Environment)](#IDE-Integrated-Development-Environment)
+
 [How to install R packages](#How-to-Install-Packages-in-R)
 
 [Useful Libraries to intstall in R for Machine Learning](#Useful-Libraries-in-R-for-Machine-Learning)
@@ -32,7 +34,7 @@ For this project, I primarily use RStudio as my preferred IDE for R programming.
 
 While RStudio is my primary choice, I've also experimented with Visual Studio Code (VS Code) for R development. VS Code is another powerful IDE with a wide range of features and extensions. However, personally, I find RStudio to be better suited for R programming due to its specialized features and seamless integration with R.
 
-Before installing RStudio, ensure you have R installed on your desktop. If you haven't installed R yet, you can download it here this link will take you to the official website of R [R Program](https://cran.r-project.org/). Once you have R installed, click on this link to download and install RStudio Desktop  [R Studio](https://posit.co/download/rstudio-desktop/).
+Before installing RStudio, ensure you have R installed on your desktop. If you haven't installed R yet, you can download it here this link will take you to the official website of R [R Program](https://cran.r-project.org/). Once you have R installed, click on this link to download and install RStudio Desktop [R Studio](https://posit.co/download/rstudio-desktop/).
 
 
 ## Useful Libraries in R for Machine Learning
