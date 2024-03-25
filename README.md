@@ -18,6 +18,23 @@ Welcome to my repository on Machine Learning with R! As part of my journey in da
 Welcome to my Machine Learning with R repository! I'm Joel Mendonsa, and here you'll find simple guides and examples to learn machine learning using R.
 You'll explore basic machine learning techniques like linear regression, logistic regression, K-nearest neighbors (KNN), decision trees, random forest, support vector machines (SVM), K-means clustering, natural language processing (NLP), and neural networks.
 
+## IDE (Integrated Development Environment)
+
+For this project, I primarily use RStudio as my preferred IDE for R programming. Here are some of the reasons why I find RStudio to be an excellent choice:
+
+- **User-Friendly Interface**: RStudio provides an intuitive and user-friendly interface, making it easy for both beginners and experienced R users to navigate and work with.
+
+- **Built-In Tools**: It comes with a variety of built-in tools for code editing, debugging, package management, version control, and more, streamlining the development workflow.
+
+- **Interactive Environment**: RStudio offers an interactive environment with features like code execution, variable exploration, and visualization integration, enhancing productivity and collaboration.
+
+- **R Markdown Support**: RStudio has excellent support for R Markdown, allowing seamless integration of code, output, and narrative text for reproducible research and dynamic reporting.
+
+While RStudio is my primary choice, I've also experimented with Visual Studio Code (VS Code) for R development. VS Code is another powerful IDE with a wide range of features and extensions. However, personally, I find RStudio to be better suited for R programming due to its specialized features and seamless integration with R.
+
+Before installing RStudio, ensure you have R installed on your desktop. If you haven't installed R yet, you can download it here this link will take you to the official website of R [R Program](https://cran.r-project.org/). Once you have R installed, click on this link to download and install RStudio Desktop  [R Studio](https://posit.co/download/rstudio-desktop/).
+
+
 ## Useful Libraries in R for Machine Learning
 When it comes to machine learning in R, several libraries stand out for their ease of use and powerful functionality. Some of the most popular ones include:
 
