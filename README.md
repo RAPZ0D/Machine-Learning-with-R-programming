@@ -62,9 +62,9 @@ Installing packages in R is straightforward and can be done using the `install.p
 
 3. **Example**: For instance, to install the caret package, you can use the following command:
 
-```R
-install.packages("caret")
-```
+   ```R
+   install.packages("caret")
+   ```
 # Linear Regression Project
 
 ## Overview
