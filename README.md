@@ -64,8 +64,7 @@ Installing packages in R is straightforward and can be done using the `install.p
 
 ```R
 install.packages("caret")
-
-
+```
 # Linear Regression Project
 
 ## Overview
