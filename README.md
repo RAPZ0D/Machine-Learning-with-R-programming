@@ -85,3 +85,12 @@ Where:
 
 Simple linear regression aims to find the best-fitting line through the data points, minimizing the sum of squared differences between the observed and predicted values of the dependent variable.
 
+#### Folders in this project 
+- **linear_regression.r**: This folder contains a practice R notebook for linear regression analysis.
+
+- **Linearreg_project.r**: This folder contains a real-world project R notebook involving linear regression analysis.
+
+#### Sample Screenshot 
+I have included screenshots for viewers to view my output and graphs 
+![plot 6](https://github.com/RAPZ0D/Machine-Learning-with-R-programming/assets/100001521/cdb8e3dc-bfe8-464c-aa8a-8c88173f1805)
+
