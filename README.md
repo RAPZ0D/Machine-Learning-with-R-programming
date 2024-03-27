@@ -64,3 +64,14 @@ Installing packages in R is straightforward and can be done using the `install.p
 
 ```R
 install.packages("caret")
+
+# Linear Regression Project
+
+## Overview
+Welcome to the Linear Regression project folder! In this repository, you'll find practice and project files related to linear regression analysis. Linear regression is a fundamental statistical technique used to model the relationship between one or more independent variables and a dependent variable.
+
+### What is Linear Regression?
+Linear regression is a statistical method used to model the relationship between a dependent variable and one or more independent variables by fitting a linear equation to observed data.
+
+#### Simple Linear Regression
+Simple linear regression involves a single independent variable used to predict the value of a dependent variable.
