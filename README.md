@@ -118,3 +118,5 @@ Where:
 - \( P(Y=1) \) is the probability of the positive outcome.
 - \( \beta_0, \beta_1, \ldots, \beta_n \) are the coefficients of the logistic regression model.
 - \( X_1, X_2, \ldots, X_n \) are the predictor variables.
+
+### Sample Project Screenshot
