@@ -96,3 +96,25 @@ I have included screenshots for viewers to view my output and graphs
 ![plot 6](https://github.com/RAPZ0D/Machine-Learning-with-R-programming/assets/100001521/cdb8e3dc-bfe8-464c-aa8a-8c88173f1805)
 
 # Logistic Regression Project
+
+### What is Logistic Regression?
+Logistic regression is a statistical method used for classification tasks, particularly when the outcome variable is binary (i.e., has only two possible outcomes). Unlike linear regression, which predicts continuous values, logistic regression predicts the probability that an observation belongs to a particular category.
+
+#### Logistic Function (Sigmoid Function)
+The logistic function, also known as the sigmoid function, is used in logistic regression to model the probability of the positive class. It has the following form:
+
+\[ p(x) = \frac{1}{1 + e^{-z}} \]
+
+Where:
+- \( p(x) \) is the predicted probability of the positive class.
+- \( z \) is the linear combination of the predictor variables and their coefficients.
+
+#### Odds Ratio
+In logistic regression, the odds ratio is used to quantify the relationship between the predictor variables and the probability of the positive outcome. It is defined as the ratio of the probability of the event occurring to the probability of the event not occurring:
+
+\[ Odds Ratio = \frac{P(Y=1)}{1 - P(Y=1)} = e^{\beta_0 + \beta_1X_1 + \beta_2X_2 + \ldots + \beta_nX_n} \]
+
+Where:
+- \( P(Y=1) \) is the probability of the positive outcome.
+- \( \beta_0, \beta_1, \ldots, \beta_n \) are the coefficients of the logistic regression model.
+- \( X_1, X_2, \ldots, X_n \) are the predictor variables.
