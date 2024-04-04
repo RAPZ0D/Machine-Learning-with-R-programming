@@ -94,3 +94,4 @@ Simple linear regression aims to find the best-fitting line through the data poi
 I have included screenshots for viewers to view my output and graphs 
 ![plot 6](https://github.com/RAPZ0D/Machine-Learning-with-R-programming/assets/100001521/cdb8e3dc-bfe8-464c-aa8a-8c88173f1805)
 
+# Logistic Regression Project
