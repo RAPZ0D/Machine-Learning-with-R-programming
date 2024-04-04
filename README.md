@@ -120,3 +120,4 @@ Where:
 - \( X_1, X_2, \ldots, X_n \) are the predictor variables.
 
 ### Sample Project Screenshot
+![plot 2](https://github.com/RAPZ0D/Machine-Learning-with-R-programming/assets/100001521/6c65e8ed-5d3b-474e-ae31-80136ba40e98)
