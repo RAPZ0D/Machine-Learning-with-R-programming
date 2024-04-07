@@ -125,6 +125,9 @@ Where:
 - \( \beta_0, \beta_1, \ldots, \beta_n \) are the coefficients of the logistic regression model.
 - \( X_1, X_2, \ldots, X_n \) are the predictor variables.
 
+#### MATH FORMULA EXPLAINED 
+[Logistic Regression Math](https://www.spiceworks.com/tech/artificial-intelligence/articles/what-is-logistic-regression/)
+
 ### Sample Project Screenshot
 ![plot 2](https://github.com/RAPZ0D/Machine-Learning-with-R-programming/assets/100001521/6c65e8ed-5d3b-474e-ae31-80136ba40e98)
 
