@@ -131,3 +131,13 @@ Where:
 
 KNN, or K-Nearest Neighbors, is a simple and intuitive machine learning algorithm used for classification and regression tasks. It is based on the principle of similarity, where an object is classified by a majority vote of its neighbors, with the object being assigned to the class most common among its k nearest neighbors.
 
+#### How Does it Work?
+
+1. **Choose K**: Determine the number of neighbors (K) to consider. This can be any positive integer.
+
+2. **Calculate Distance**: Measure the distance between the query instance and all the training samples.
+
+3. **Find Nearest Neighbors**: Select the K samples in the training data that are closest to the query instance.
+
+4. **Majority Vote**: Assign the class label by majority vote among the K nearest neighbors.
+
