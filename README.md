@@ -93,6 +93,10 @@ Simple linear regression aims to find the best-fitting line through the data poi
 
 - **Linearreg_project.r**: This folder contains a real-world project R notebook involving linear regression analysis.
 
+#### LINK to understand the math formula 
+
+[Linear Regression Math formula](https://www.statisticshowto.com/probability-and-statistics/regression-analysis/find-a-linear-regression-equation/)
+
 #### Sample Screenshot 
 I have included screenshots for viewers to view my output and graphs 
 ![plot 6](https://github.com/RAPZ0D/Machine-Learning-with-R-programming/assets/100001521/cdb8e3dc-bfe8-464c-aa8a-8c88173f1805)
