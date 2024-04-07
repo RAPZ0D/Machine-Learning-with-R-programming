@@ -170,3 +170,5 @@ Where:
 
 In KNN, this distance calculation is performed for each pair of query instance and data point to determine the nearest neighbors.
 
+#### KNN MATH FORMULA EXPLAINED 
+[MATH IN KNN](https://towardsdatascience.com/the-math-behind-knn-3d34050efb71)
