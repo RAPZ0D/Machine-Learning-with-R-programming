@@ -150,3 +150,15 @@ KNN, or K-Nearest Neighbors, is a simple and intuitive machine learning algorith
 - **Anomaly Detection**: KNN can be employed to identify anomalies or outliers in data.
 
 - **Recommendation Systems**: KNN can be used in recommendation systems to recommend items or products to users based on similarity measures.
+
+### 2. Mathematical Formula:
+
+The mathematical formula for KNN involves calculating distances between points in a multidimensional space. One common distance metric used in KNN is the Euclidean distance. For a query instance \( q \) and a data point \( p \), the Euclidean distance \( d(q,p) \) is calculated as follows:
+
+\[ d(q,p) = \sqrt{(q_1 - p_1)^2 + (q_2 - p_2)^2 + \ldots + (q_n - p_n)^2} \]
+
+Where:
+- \( q_1, q_2, \ldots, q_n \) are the features of the query instance.
+- \( p_1, p_2, \ldots, p_n \) are the features of the data point \( p \).
+
+In KNN, this distance calculation is performed for each pair of query instance and data point to determine the nearest neighbors.
