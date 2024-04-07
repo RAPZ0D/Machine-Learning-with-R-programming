@@ -141,3 +141,12 @@ KNN, or K-Nearest Neighbors, is a simple and intuitive machine learning algorith
 
 4. **Majority Vote**: Assign the class label by majority vote among the K nearest neighbors.
 
+### Applications of KNN:
+
+- **Classification**: KNN can be used for classification tasks such as image recognition, handwriting recognition, and sentiment analysis.
+
+- **Regression**: In regression tasks, KNN can predict continuous values based on the average of the values of its nearest neighbors.
+
+- **Anomaly Detection**: KNN can be employed to identify anomalies or outliers in data.
+
+- **Recommendation Systems**: KNN can be used in recommendation systems to recommend items or products to users based on similarity measures.
