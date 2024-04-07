@@ -121,3 +121,11 @@ Where:
 
 ### Sample Project Screenshot
 ![plot 2](https://github.com/RAPZ0D/Machine-Learning-with-R-programming/assets/100001521/6c65e8ed-5d3b-474e-ae31-80136ba40e98)
+
+
+# KNN
+
+### 1. What is KNN (K-Nearest Neighbors)?
+
+KNN, or K-Nearest Neighbors, is a simple and intuitive machine learning algorithm used for classification and regression tasks. It is based on the principle of similarity, where an object is classified by a majority vote of its neighbors, with the object being assigned to the class most common among its k nearest neighbors.
+
