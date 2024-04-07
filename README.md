@@ -172,3 +172,6 @@ In KNN, this distance calculation is performed for each pair of query instance a
 
 #### KNN MATH FORMULA EXPLAINED 
 [MATH IN KNN](https://towardsdatascience.com/the-math-behind-knn-3d34050efb71)
+
+### SAMPLE SCREENSHOT FROM THE PROJECT 
+![new plot 2](https://github.com/RAPZ0D/Machine-Learning-with-R-programming/assets/100001521/1f0224da-18cb-49ea-aafe-e11096093324)
