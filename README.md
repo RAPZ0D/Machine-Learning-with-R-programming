@@ -175,3 +175,10 @@ In KNN, this distance calculation is performed for each pair of query instance a
 
 ### SAMPLE SCREENSHOT FROM THE PROJECT 
 ![new plot 2](https://github.com/RAPZ0D/Machine-Learning-with-R-programming/assets/100001521/1f0224da-18cb-49ea-aafe-e11096093324)
+
+
+## Decision Trees 
+
+### What is a Decision Tree?
+
+A Decision Tree is a tree-like model used for classification and regression tasks in machine learning. It works by partitioning the input space into regions and assigning a label or value to each region.
