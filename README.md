@@ -214,3 +214,11 @@ Random Forest is an ensemble learning technique that combines multiple Decision 
 2. **Feature Randomness**: At each split of a Decision Tree, only a random subset of features is considered, reducing the correlation between trees and improving diversity.
 
 3. **Voting**: For classification tasks, the final prediction is made by aggregating the predictions of all trees (majority voting). For regression tasks, the final prediction is the average of predictions from individual trees.
+
+### Applications of Random Forest:
+
+- **Classification and Regression**: Random Forest is widely used for both classification and regression tasks across various domains due to its robustness and high accuracy.
+
+- **Anomaly Detection**: Random Forest can be used for anomaly detection in fraud detection systems, network security, etc.
+
+- **Feature Importance**: Random Forest can also be used to assess the importance of different features in predicting the target variable.
