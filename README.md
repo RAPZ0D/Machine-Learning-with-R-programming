@@ -222,3 +222,6 @@ Random Forest is an ensemble learning technique that combines multiple Decision 
 - **Anomaly Detection**: Random Forest can be used for anomaly detection in fraud detection systems, network security, etc.
 
 - **Feature Importance**: Random Forest can also be used to assess the importance of different features in predicting the target variable.
+
+#### Math Behind Decision Tree Algorithm explained
+[Decision Tree Math](https://ankitnitjsr13.medium.com/math-behind-decision-tree-algorithm-2aa398561d6d)
