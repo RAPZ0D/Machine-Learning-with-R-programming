@@ -225,3 +225,8 @@ Random Forest is an ensemble learning technique that combines multiple Decision 
 
 #### Math Behind Decision Tree Algorithm explained
 [Decision Tree Math](https://ankitnitjsr13.medium.com/math-behind-decision-tree-algorithm-2aa398561d6d)
+
+### Sample Project Screenshot
+
+![new plot 4](https://github.com/RAPZ0D/Machine-Learning-with-R-programming/assets/100001521/14794ee0-3091-4962-8417-e49b0e833af0)
+
