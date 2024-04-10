@@ -206,3 +206,11 @@ A Decision Tree is a tree-like model used for classification and regression task
 ### What is Random Forest?
 
 Random Forest is an ensemble learning technique that combines multiple Decision Trees to improve predictive performance and reduce overfitting.
+
+### How Does it Work?
+
+1. **Bootstrapping**: Random Forest builds multiple Decision Trees using bootstrapped samples of the training data (sampling with replacement).
+
+2. **Feature Randomness**: At each split of a Decision Tree, only a random subset of features is considered, reducing the correlation between trees and improving diversity.
+
+3. **Voting**: For classification tasks, the final prediction is made by aggregating the predictions of all trees (majority voting). For regression tasks, the final prediction is the average of predictions from individual trees.
