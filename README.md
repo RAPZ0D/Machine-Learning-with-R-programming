@@ -184,3 +184,11 @@ In KNN, this distance calculation is performed for each pair of query instance a
 ### What is a Decision Tree?
 
 A Decision Tree is a tree-like model used for classification and regression tasks in machine learning. It works by partitioning the input space into regions and assigning a label or value to each region.
+
+### How Does it Work?
+
+1. **Splitting**: The tree is built by recursively splitting the data into subsets based on the values of input features. Each split is chosen to maximize the homogeneity (purity) of the resulting subsets with respect to the target variable.
+
+2. **Decision Nodes**: Each internal node of the tree represents a decision based on the value of a particular feature.
+
+3. **Leaf Nodes**: The terminal nodes of the tree, called leaf nodes, assign a label or value to the corresponding subset of data.
