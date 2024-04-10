@@ -200,3 +200,9 @@ A Decision Tree is a tree-like model used for classification and regression task
 - **Classification**: Decision Trees are commonly used for classification tasks such as spam detection, medical diagnosis, and customer segmentation.
 
 - **Regression**: In regression tasks, Decision Trees can predict continuous values, making them useful for predicting house prices, stock prices, etc.
+
+## Random Forest
+
+### What is Random Forest?
+
+Random Forest is an ensemble learning technique that combines multiple Decision Trees to improve predictive performance and reduce overfitting.
