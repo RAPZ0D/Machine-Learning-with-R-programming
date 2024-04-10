@@ -192,3 +192,9 @@ A Decision Tree is a tree-like model used for classification and regression task
 2. **Decision Nodes**: Each internal node of the tree represents a decision based on the value of a particular feature.
 
 3. **Leaf Nodes**: The terminal nodes of the tree, called leaf nodes, assign a label or value to the corresponding subset of data.
+
+### Applications of Decision Trees:
+
+- **Classification**: Decision Trees are commonly used for classification tasks such as spam detection, medical diagnosis, and customer segmentation.
+
+- **Regression**: In regression tasks, Decision Trees can predict continuous values, making them useful for predicting house prices, stock prices, etc.
