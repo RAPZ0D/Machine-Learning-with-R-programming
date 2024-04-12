@@ -7,6 +7,8 @@ This Repository includes all the Machine Learning (ML) topics covered in R progr
 
 [Useful Libraries to intstall in R for Machine Learning](#Useful-Libraries-in-R-for-Machine-Learning)
 
+[Screenshots](#Screenshots)
+
 [Linear Regression Project](#Linear-Regression-Project)
 
 [Logistic Regression Project](#Logistic-Regression-Project)
@@ -75,6 +77,9 @@ Installing packages in R is straightforward and can be done using the `install.p
    ```R
    install.packages("caret")
    ```
+### Screenshots 
+The screenshots uploaded in each of the ML algorithm in the Read.me file are all the project visuals I worked on, you can get the same output when you run the code 
+
 # Linear Regression Project
 
 ## Overview
