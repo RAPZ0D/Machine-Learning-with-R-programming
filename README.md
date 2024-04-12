@@ -204,3 +204,8 @@ Random Forest is an ensemble learning technique that combines multiple Decision 
 
 ![new plot 4](https://github.com/RAPZ0D/Machine-Learning-with-R-programming/assets/100001521/14794ee0-3091-4962-8417-e49b0e833af0)
 
+
+## Support Vector Machines 
+### What is Support Vector Machines?
+
+Support Vector Machines (SVM) is a powerful supervised machine learning algorithm used for classification and regression tasks. It works by finding the optimal hyperplane that best separates data points into different classes or groups.
