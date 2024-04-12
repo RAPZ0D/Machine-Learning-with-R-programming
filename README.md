@@ -211,3 +211,9 @@ Random Forest is an ensemble learning technique that combines multiple Decision 
 ### What is Support Vector Machines?
 
 Support Vector Machines (SVM) is a powerful supervised machine learning algorithm used for classification and regression tasks. It works by finding the optimal hyperplane that best separates data points into different classes or groups.
+
+### How Does it Work?
+
+1. **Maximizing Margin**: SVM aims to find the hyperplane that maximizes the margin, i.e., the distance between the hyperplane and the nearest data points of each class. This allows SVM to achieve good generalization performance.
+
+2. **Kernel Trick**: SVM can handle nonlinear data by mapping the original input space into a higher-dimensional feature space using a kernel function. This allows SVM to find a linear decision boundary in the transformed space.
