@@ -236,3 +236,6 @@ Support Vector Machines (SVM) is a powerful supervised machine learning algorith
 - **Robust to Overfitting**: SVM is less prone to overfitting compared to other algorithms, especially when using a proper regularization parameter.
 
 - **Versatile**: SVM can handle both linear and nonlinear data through the use of different kernel functions.
+
+#### MATH BEHIND SUPPORT VECTOR MACHINES 
+[Math behind SVM's](https://ankitnitjsr13.medium.com/math-behind-support-vector-machine-svm-5e7376d0ee4d)
