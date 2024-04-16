@@ -247,3 +247,6 @@ Support Vector Machines (SVM) is a powerful supervised machine learning algorith
 
 ### Sample Project Screenshot 
 ![plot 4](https://github.com/RAPZ0D/Machine-Learning-with-R-programming/assets/100001521/cebb9055-c2e8-40ea-aaef-c33064f563b1)
+
+
+## K Nearest Neighbours
