@@ -251,3 +251,14 @@ Support Vector Machines (SVM) is a powerful supervised machine learning algorith
 
 
 ## K Nearest Neighbours
+### How Does it Work?
+
+K-means clustering is a popular unsupervised machine learning algorithm used for clustering similar data points into a pre-defined number of clusters. The algorithm works as follows:
+
+1. **Initialization**: Choose K initial centroids randomly from the data points.
+
+2. **Assignment**: Assign each data point to the nearest centroid, forming K clusters.
+
+3. **Update Centroids**: Recalculate the centroids of the clusters by taking the mean of all data points assigned to each cluster.
+
+4. **Repeat**: Iterate the assignment and update steps until convergence, where the centroids no longer change significantly or a specified number of iterations is reached.
