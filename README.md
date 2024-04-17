@@ -259,6 +259,17 @@ K-means clustering is a popular unsupervised machine learning algorithm used for
 
 2. **Assignment**: Assign each data point to the nearest centroid, forming K clusters.
 
-3. **Update Centroids**: Recalculate the centroids of the clusters by taking the mean of all data points assigned to each cluster.
+### Applications of K-means Clustering:
 
-4. **Repeat**: Iterate the assignment and update steps until convergence, where the centroids no longer change significantly or a specified number of iterations is reached.
+- **Customer Segmentation**: K-means clustering is commonly used in marketing to segment customers based on their purchasing behavior, demographics, or preferences.
+
+- **Image Segmentation**: In computer vision, K-means clustering can be used to segment images into regions with similar colors or textures.
+
+- **Anomaly Detection**: K-means clustering can identify outliers or anomalies in data by assigning them to a separate cluster.
+
+- **Document Clustering**: In natural language processing, K-means clustering is used to group similar documents together for tasks such as topic modeling or document summarization.
+
+
+4. **Update Centroids**: Recalculate the centroids of the clusters by taking the mean of all data points assigned to each cluster.
+
+5. **Repeat**: Iterate the assignment and update steps until convergence, where the centroids no longer change significantly or a specified number of iterations is reached.
