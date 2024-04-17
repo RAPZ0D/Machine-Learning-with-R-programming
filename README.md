@@ -283,3 +283,6 @@ K-means clustering is a popular unsupervised machine learning algorithm used for
 - **Interpretability**: The clusters produced by K-means are easy to interpret and can provide valuable insights into the underlying structure of the data.
 
 - **Versatility**: K-means can be adapted to various types of data and clustering problems by choosing an appropriate distance metric and number of clusters.
+
+#### MATH BEHIND K MEANS CLUSTERING
+[Math Behind K Means Clustering](https://medium.com/@draj0718/the-math-behind-k-means-clustering-4aa85532085e)
