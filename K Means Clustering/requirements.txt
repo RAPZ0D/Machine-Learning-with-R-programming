@@ -1,0 +1,6 @@
+Libraries used for K means clustering: 
+
+ggplot2
+stats
+cluster
+graphics
