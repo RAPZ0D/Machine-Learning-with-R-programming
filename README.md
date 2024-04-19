@@ -297,3 +297,18 @@ K-means clustering is a popular unsupervised machine learning algorithm used for
 ### What is Natural Language Processing?
 
 Natural Language Processing (NLP) is a field of artificial intelligence focused on the interaction between computers and human languages. It involves the analysis, understanding, and generation of human language data.
+
+### Usage of NLP in R:
+
+In R, NLP is facilitated by various libraries and packages, such as `tm` (Text Mining), `nlp` (Natural Language Processing), `tidytext`, and `text2vec`. These packages provide tools and functions to preprocess, analyze, and visualize text data. Some common tasks performed in NLP using R include:
+
+- **Text Preprocessing**: Cleaning and preprocessing raw text data by removing stopwords, stemming, lemmatization, and tokenization.
+  
+- **Sentiment Analysis**: Determining the sentiment or emotional tone of text data, such as positive, negative, or neutral sentiments.
+  
+- **Topic Modeling**: Identifying topics or themes present in a collection of documents using techniques like Latent Dirichlet Allocation (LDA).
+  
+- **Named Entity Recognition (NER)**: Identifying and classifying named entities such as people, organizations, and locations in text data.
+  
+- **Text Classification**: Categorizing text data into predefined categories or classes based on its content.
+
