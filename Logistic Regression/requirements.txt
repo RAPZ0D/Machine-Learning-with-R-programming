@@ -1,0 +1,6 @@
+Libraries used for Logistic Regression: 
+
+ggplot2
+caret
+dplyr
+viridis
