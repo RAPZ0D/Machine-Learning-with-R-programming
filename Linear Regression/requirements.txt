@@ -1,0 +1,11 @@
+Libraries used for Linear Regression:
+
+ggplot2
+ggthemes
+dplyr
+corrgram
+corrplot
+viridis
+caTools
+ggplot2
+viridis
