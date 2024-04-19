@@ -1,0 +1,8 @@
+Libraries used for KNN : 
+
+ISLR
+class
+ggplot2
+stats
+cluster
+caret
