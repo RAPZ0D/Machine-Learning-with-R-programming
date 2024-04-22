@@ -328,3 +328,8 @@ In R, NLP is facilitated by various libraries and packages, such as `tm` (Text M
 
 ## What is a Neural Network?
 A neural network is a computational model inspired by the structure and functioning of biological neural networks, like the human brain. It consists of interconnected nodes, or artificial neurons, organized in layers. Each neuron receives input, processes it, and then passes the output to the next layer of neurons. Through a process of training on a dataset, neural networks can learn to recognize patterns and make predictions or classifications.
+
+## Libraries for Neural Networks
+There are several libraries available in various programming languages for building neural networks. In R, some popular libraries for neural networks include:
+- **MASS**: Provides functions for fitting neural network models.
+- **neuralnet**: Offers tools for training and visualizing neural networks.
