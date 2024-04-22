@@ -325,3 +325,6 @@ In R, NLP is facilitated by various libraries and packages, such as `tm` (Text M
 - **Language Understanding**: NLP facilitates understanding and interpretation of human language, enabling applications such as virtual assistants, chatbots, and question answering systems.
 
 # Neural Network
+
+## What is a Neural Network?
+A neural network is a computational model inspired by the structure and functioning of biological neural networks, like the human brain. It consists of interconnected nodes, or artificial neurons, organized in layers. Each neuron receives input, processes it, and then passes the output to the next layer of neurons. Through a process of training on a dataset, neural networks can learn to recognize patterns and make predictions or classifications.
